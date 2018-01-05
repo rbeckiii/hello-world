@@ -1,2 +1,2 @@
 # hello-world
-Optional repository description. 
+Getting started on GitHub!
